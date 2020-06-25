@@ -1,11 +1,11 @@
 # GroceryScribe
 
-<h4>Goal:</h4> Create app that serves a grocery shopper as an interactive list keeper. 
+<h4>Goal:</h4> Create app that serves a grocery shopper as an interactive list keeper.
 <p>
 
 Trello : https://trello.com/b/8WA79GAR/groceryscribe
 <h4>Technologies:</h4>
-Reacr or Python (Kivy) TBD
+React or Python (Kivy) TBD
 
 ---------------------------------
 <h4>MVP:</h4>
@@ -26,7 +26,7 @@ Reacr or Python (Kivy) TBD
 
 - [ ] Deploy app!
 
-- [ ] Implement some SVG decoration 
+- [ ] Implement some SVG decoration.
 
 - [ ] Mobile Friendly
 
